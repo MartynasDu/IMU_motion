@@ -19,6 +19,8 @@ fileData1 = tdfread('C:\Users\Delas\Desktop\Martynas\matlab\testu_data\20220120\
     gyr2 =    [fileData1.Gyroscope_X fileData1.Gyroscope_Y fileData1.Gyroscope_Z];
     %acc_dd = [fileData2.Accelerometer_X fileData2.Accelerometer_Y fileData2.Accelerometer_Z];
     %gyr_dd = [fileData2.Gyroscope_X fileData2.Gyroscope_Y fileData2.Gyroscope_Z];
+    
+    acc2 = acc2/30;
 %%
 samplePeriod = 1/256;
 %if length(fileData1.Accelerometer_X) > length(fileData2.Accelerometer_X)

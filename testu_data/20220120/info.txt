@@ -1,0 +1,2 @@
+Kartojami 3 vienodi testai pagal oscilatory video pavyzdy
+IMU laikomas 10s ant statlo pakeliamas 20cm i virsu ir laikomas 10s, tada isleto sukiojamas ir judinamas aukstyn/zemyn
