@@ -1,0 +1,196 @@
+%51.2 Hz: 
+%Iskerpama pradzia
+%51.2 Hz: 
+%SHIMMER 3:%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Dilbis1 1060
+%from= 1060;  to = length(linPosHP);
+%Dilbis2 from 1076
+%Dilbis3 from 1103
+%Dilbis4 from 1024
+%Dilbis5 from 944
+%Dilbis6 from 965
+%Dilbis7 from 868
+%Dilbis8 from 835
+%Dilbis9 from 800
+
+%Iskerpami pavieniai judesiai
+
+%NR1
+%from = 1060; to = 1410; %Dilbis1, 1 judesys (BLOGAS)
+   %from = 1060; to = 1240; %Dilbis1, 1 judesys      %puse judesio - tik pakelimas
+%from = 1411; to = 1750; %Dilbis1, 2 judesys
+%from = 1751; to = 2080; %Dilbis1, 3 judesys (BLOGAS)
+
+%NR2
+%from = 1076; to = 1424; %Dilbis1, 1 judesys
+    %from = 1076; to = 1260; %Dilbis1, 1 judesys      %puse judesio - tik pakelimas%
+%from = 1425; to = 1753; %Dilbis1, 2 judesys (BLOGAS)
+%from = 1754; to = 2068; %Dilbis1, 3 judesys (BLOGAS)
+
+%NR3
+%from = 1103; to = 1440; %Dilbis3, 1 judesys (BLOGAS)
+%from = 1441; to = 1826; %Dilbis3, 2 judesys
+
+%NR4
+%from = 1024; to = 1415; %Dilbis4, 1 judesys
+%from = 1416; to = 1766; %Dilbis4, 2 judesys
+%from = 1767; to = 2074; %Dilbis4, 3 judesys
+    %Pavieniai:
+        %from = 1024; to = 1209; %Dilbis4, 1 judesys
+        %from = 1210; to = 1415; %Dilbis4, 2 judesys
+        %from = 1416; to = 1591; %Dilbis4, 3 judesys
+        %from = 1592; to = 1768; %Dilbis4, 3 judesys
+        %from = 1769; to = 1928; %Dilbis4, 3 judesys
+    
+%NR5
+%from = 944; to = 1276; %Dilbis5, 1 judesys
+%from = 1277; to = 1623; %Dilbis5, 2 judesys
+%from = 1624; to = 2000; %Dilbis5, 3 judesys
+
+
+%NR6
+%from = 965; to = 1313; %Dilbis6, 1 judesys
+%from = 1314; to = 1669; %Dilbis6, 2 judesys
+%from = 1670; to = 2041; %Dilbis6, 3 judesys
+
+%NR7
+%from = 868; to = 1095; %Dilbis7, 1 judesys
+%from = 1096; to = 1345; %Dilbis7, 2 judesys
+%from = 1346; to = 1562; %Dilbis7, 3 judesys
+%from = 1563; to = 1809; %Dilbis7, 4 judesys
+
+    %Pavieniai:
+        %from = 868; to = 990; %Dilbis4, 1 judesys
+        %from = 991; to = 1095; %Dilbis4, 1 judesys
+        %from = 1096; to = 1230; %Dilbis4, 1 judesys
+        %from = 1231; to = 1341; %Dilbis4, 1 judesys
+        %from = 1342; to = 1453; %Dilbis4, 1 judesys
+        %from = 1454; to = 1563; %Dilbis4, 1 judesys
+        %from = 1564; to = 1688; %Dilbis4, 1 judesys
+        %from = 1689; to = 1809; %Dilbis4, 1 judesys
+        %from = 1810; to = 1942; %Dilbis4, 1 judesys
+
+%NR8
+%from = 835; to = 1071; %Dilbis8, 1 judesys
+%from = 1073; to = 1315; %Dilbis8, 2 judesys
+%from = 1316; to = 1560; %Dilbis8, 3 judesys
+%from = 1561; to = 1805; %Dilbis8, 4 judesys
+%from = 1806; to = 2060; %Dilbis8, 5 judesys
+
+%NR9
+%from = 800; to = 1080; %Dilbis9, 1 judesys
+%from = 1081; to = 1360; %Dilbis9, 2 judesys
+%from = 1361; to = 1630; %Dilbis9, 3 judesys
+%from = 1631; to = 1900; %Dilbis9, 4 judesys
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Iskerpama pradzia
+%51.2 Hz: 
+%SHIMMER 6:%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Dilbis1 from 1034
+%Dilbis2 from 798
+%Dilbis3 from 821
+%Dilbis4 from 1014
+%Dilbis5 from 1021
+%Dilbis6 from 971
+%Dilbis7 from 823
+%Dilbis8 from 942
+%Dilbis9 from 952
+
+%Iskerpami pavieniai judesiai
+
+%NR1
+%from = 1034; to = 1503; %Dilbis1, 1 judesys
+%from = 1504; to = 2030; %Dilbis1, 2 judesys
+
+%NR2
+%from = 798; to = 1332; %Dilbis1, 1 judesys
+%from = 1333; to = 1878; %Dilbis1, 2 judesys
+
+%NR3
+%from = 821; to = 1306; %Dilbis3, 1 judesys
+%from = 1307; to = 1842; %Dilbis3, 2 judesys
+
+%NR4
+%from = 1014; to = 1487; %Dilbis4, 1 judesys
+%from = 1488; to = 1942; %Dilbis4, 2 judesys
+    
+%NR5
+%from = 1021; to = 1437; %Dilbis5, 1 judesys
+%from = 1438; to = 1814; %Dilbis5, 2 judesys
+
+%NR6
+%from = 971; to = 1354; %Dilbis6, 1 judesys
+%from = 1355; to = 1736; %Dilbis6, 2 judesys
+
+%NR7
+%from = 823; to = 1137; %Dilbis7, 1 judesys
+%from = 1138; to = 1477; %Dilbis7, 2 judesys
+%from = 1478; to = 1809; %Dilbis7, 3 judesys
+
+%NR8
+%from = 942; to = 1264; %Dilbis8, 1 judesys
+%from = 1265; to = 1622; %Dilbis8, 2 judesys
+%from = 1623; to = 1971; %Dilbis8, 3 judesys
+
+%NR9
+%from = 952; to = 1291; %Dilbis9, 1 judesys
+%from = 1292; to = 1625; %Dilbis9, 2 judesys
+%from = 1626; to = 1980; %Dilbis9, 3 judesys
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Iskerpama pradzia
+%51.2 Hz: 
+%SHIMMER 7:%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Dilbis1 from 960
+%Dilbis2 from 1041
+%Dilbis3 from 1136
+%Dilbis4 from 1036
+%Dilbis5 from 959
+%Dilbis6 from 1128
+%Dilbis7 from 
+%Dilbis8 from 
+%Dilbis9 from 
+
+%Iskerpami pavieniai judesiai
+
+%NR1
+%from = 960; to = 1465; %Dilbis1, 1 judesys
+%from = 1465; to = 1950; %Dilbis1, 2 judesys
+
+%NR2
+%from = 1041; to = 1555; %Dilbis1, 1 judesys
+%from = 1556; to = 2049; %Dilbis1, 2 judesys
+
+%NR3
+%from = 1136; to = 1615; %Dilbis3, 1 judesys
+%from = 1616; to = 2061; %Dilbis3, 2 judesys
+
+%NR4
+%from = 1036; to = 1447; %Dilbis4, 1 judesys
+%from = 1448; to = 1855; %Dilbis4, 2 judesys
+    
+%NR5
+%from = 959; to = 1351; %Dilbis5, 1 judesys
+%from = 1352; to = 1808; %Dilbis5, 2 judesys
+
+%NR6
+%from = 1128; to = 1530; %Dilbis6, 1 judesys
+%from = 1531; to = 1944; %Dilbis6, 2 judesys
+
+%NR7
+%from = 922; to = 1236; %Dilbis7, 1 judesys
+%from = 1237; to = 1538; %Dilbis7, 2 judesys
+%from = 1539; to = 1838; %Dilbis7, 3 judesys
+
+%NR8
+%from = 885; to = 1223; %Dilbis8, 1 judesys
+%from = 1224; to = 1498; %Dilbis8, 2 judesys
+%from = 1499; to = 1822; %Dilbis8, 3 judesys
+
+%NR9
+%from = 896; to = 1198; %Dilbis9, 1 judesys
+%from = 1199; to = 1511; %Dilbis9, 2 judesys
+%from = 1512; to = 1862; %Dilbis9, 3 judesys
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

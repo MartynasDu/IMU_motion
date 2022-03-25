@@ -1,0 +1,45 @@
+%256 Hz: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%SHIMMER 3:
+%Dilbis1 from 5850
+%Dilbis2 from 5380
+%Dilbis3 from 5425
+%Dilbis4 from 4810
+%Dilbis5 from 4315
+%Dilbis6 from 5440
+%Dilbis7 from 4335
+%Dilbis8 from 4780
+%Dilbis9 from 4675
+	
+%
+%from = 5850; to = 8440; %Dilbis1, 1 judesys
+%from = 8441; to = 10390; %Dilbis1, 2 judesys (BLOGAS)
+
+%from = 5380; to = 7630; %Dilbis2, 1 judesys
+%from = 7631; to = 10045; %Dilbis2, 2 judesys
+
+%from = 5425; to = 7995; %Dilbis3, 1 judesys
+%from = 7996; to = 10344; %Dilbis3, 2 judesys
+
+%from = 4810; to = 6770; %Dilbis4, 1 judesys
+%from = 6771; to = 8705; %Dilbis4, 2 judesys
+%from = 8706; to = 10400; %Dilbis4, 3 judesys
+
+%from = 4315; to = 6410; %Dilbis5, 1 judesys
+%from = 6411; to = 8400; %Dilbis5, 2 judesys
+%from = 8401; to = 10269; %Dilbis5, 3 judesys
+
+%from = 5440; to = 7780; %Dilbis6, 1 judesys
+%from = 7781; to = 10130; %Dilbis6, 2 judesys
+
+%from = 4335; to = 6065; %Dilbis7, 1 judesys
+%from = 6066; to = 7620; %Dilbis7, 2 judesys
+%from = 7621; to = 9255; %Dilbis7, 3 judesys
+
+%from = 4780; to = 6290; %Dilbis8, 1 judesys
+%from = 6291; to = 8370; %Dilbis8, 2 judesys (BLOGAS)
+%from = 8371; to = 10070; %Dilbis8, 3 judesys
+
+%from = 4675; to = 6520; %Dilbis9, 1 judesys
+%from = 6521; to = 8420; %Dilbis9, 2 judesys
+%from = 8421; to = 10154; %Dilbis9, 3 judesys
+	

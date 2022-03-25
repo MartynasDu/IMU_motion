@@ -1,0 +1,37 @@
+from,=,9,60;,to =,,1,4,65;,"%Dilbis1, 1",judesys
+%from,=,,1465,; to,,=,,1950,"; %Dilbis1,",2 judesys
+,,,,,,,,,,
+%NR2,,,,,,,,,,
+%from,=,,1041,; to,,=,,1555,"; %Dilbis1,",1 judesys
+%from,=,,1556,; to,,=,,2049,"; %Dilbis1,",2 judesys
+,,,,,,,,,,
+%NR3,,,,,,,,,,
+%from,=,,1136,; to,,=,,1615,"; %Dilbis3,",1 judesys
+%from,=,,1616,; to,,=,,2061,"; %Dilbis3,",2 judesys
+,,,,,,,,,,
+%NR4,,,,,,,,,,
+%from,=,,1036,; to,,=,,1447,"; %Dilbis4,",1 judesys
+%from,=,,1448,; to,,=,,1855,"; %Dilbis4,",2 judesys
+,,,,,,,,,,
+%NR5,,,,,,,,,,
+%from,=,,959;,to,=,,1,351;,"%Dilbis5,",1 judesys
+%from,=,,1352,; to,,=,,1808,"; %Dilbis5,",2 judesys
+,,,,,,,,,,
+%NR6,,,,,,,,,,
+%from,=,,1128,; to,,=,,1530,"; %Dilbis6,",1 judesys
+%from,=,,1531,; to,,=,,1944,"; %Dilbis6,",2 judesys
+,,,,,,,,,,
+%NR7,,,,,,,,,,
+%from,=,,922;,to,=,,1,236;,"%Dilbis7,",1 judesys
+%from,=,,1237,; to,,=,,1538,"; %Dilbis7,",2 judesys
+%from,=,,1539,; to,,=,,1838,"; %Dilbis7,",3 judesys
+,,,,,,,,,,
+%NR8,,,,,,,,,,
+%from,=,,885;,to,=,,1,223;,"%Dilbis8,",1 judesys
+%from,=,,1224,; to,,=,,1498,"; %Dilbis8,",2 judesys
+%from,=,,1499,; to,,=,,1822,"; %Dilbis8,",3 judesys
+,,,,,,,,,,
+%NR9,,,,,,,,,,
+%from,=,,896;,to,=,,1,198;,"%Dilbis9,",1 judesys
+%from,=,,1199,; to,,=,,1511,"; %Dilbis9,",2 judesys
+%from,=,,1512,; to,,=,,1862,"; %Dilbis9,",3 judesys

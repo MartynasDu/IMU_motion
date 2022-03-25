@@ -1,0 +1,7 @@
+6imu naudotas
+paprasti testai - pilnas rankos pakelimas per 2 sec. (kartotas judesys apie 50k) per 160 sec
+greiti testai - pilnas rankos pakelimas per 1 sec. (kartotas judesys apie 50k) per 90 sec
+
+Pilnas - rankos kelimas 180 laipsniu
+Nepilnas - rankos kelimas 135
+Puse - rankos kelimas 90
