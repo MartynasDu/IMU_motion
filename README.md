@@ -6,9 +6,3 @@ IMU_motion
 **Surface_Min_Max.xlsx - matavimų duomenys.**
 
 
-
-
-
-**Script - S.Madgwck atliekamas pavyzdys**
-
-Atliekamo judesio vaizdo įrašas: https://www.youtube.com/watch?v=SI1w9uaBw6Q
