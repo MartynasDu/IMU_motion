@@ -103,7 +103,7 @@ function h = thermometer(varargin)
 
   % change color to red - yellow - green scale
 
-  co = zeros(length(varargin{1}),3);
+  co = zeros(varargin{2},3);
   v2 = linspace(0,255,length(co)/2);
   v2 = v2/255;
   v2 = [v2 ones(1,length(v2))];
@@ -133,7 +133,7 @@ function h = thermometer(varargin)
           'facecolor', co(1,:) ,'edgecolor','none');
 
   if ~isempty(names)
-    yzonelabel_t(inputy(1), data(1)+inputy(1), names{1}, 'right');
+    yzonelabel_t(inputy(1), length(data), names{1}, 'right');
   end
   
   bottom = data(1)+inputy(1);
@@ -241,7 +241,7 @@ function yzonelabel_t(start, fin, str, side)
   if isempty(str)
     newstr = numstr;
   else
-    newstr = [ numstr char(10) str ];
+    newstr = [ char(10) str ];%newstr = [ numstr char(10) str ];
   end
   
   l = line(xdata,ydata,'color','k');
