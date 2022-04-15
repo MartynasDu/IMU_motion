@@ -1,0 +1,37 @@
+IMU matavimai 2022-04-12; sampleFreq: 256Hz:
+Dilbis 7sh
+Zastas 6sh
+
+6sh180zast1.dat:
+	Flexion (180 i virsu): 161.92; 158.52
+7sh180dilb1.dat:
+	Flexion (180 i virsu): 159.06; 158.96
+
+6sh180zast1_180atgal.dat:
+	Extension (atgal): 43.15; 42.89
+7sh180dilb1.dat:
+	Extension (atgal): 53.47; 52.05
+
+6sh180zast1_sonas.dat:
+	Abduction (šonas į viršų): 123.27; 118.69
+7sh180dilb1_sonas.dat:
+	Abduction (šonas į viršų): 142.83; 136.40
+	
+6sh180zast1_alkune_virsun.dat:
+	External rotation (sulenkta per alukune i virsu): 83.91; 85.21
+7sh180dilb1_alkune_virsun.dat:
+	External rotation (sulenkta per alukune i virsu): 120.72; 130.80
+
+6sh180zast1_alkune_virsun.dat:
+	Internal rotation (sulenkta per alukune i zemyn): 35.52; 39.58
+7sh180dilb1_alkune_virsun.dat:
+	Internal rotation (sulenkta per alukune i zemyn): 48.56; 48.66
+
+
+
+Goniometro matavimai (po 2 kartus kiekviena) Martynas 2022-04-12:
+Flexion (180 i virsu): 160/158
+Extension (atgal): 51/50
+Abduction (šonas į viršų): 145/140
+External rotation (sulenkta per alukune i virsu): 122/128
+Internal rotation (sulenkta per alukune i zemyn): 45/47
